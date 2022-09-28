@@ -1,4 +1,5 @@
 # Samantha's Elevator Interface 
+![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
 
 ### Links
 [Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
