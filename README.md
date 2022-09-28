@@ -1,4 +1,5 @@
 # Samantha's Elevator Interface 
+![Elevator Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4764.png)
 
 ![GIF Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.gif)
 
