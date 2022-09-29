@@ -20,8 +20,12 @@ Negatives of current elevator design
 - The font on some of the buttons is faded making it difficult to see which button the user is pressing.
 - The elevator has an explanation of what it is on the exterior on the bottom floor but is missing the explanation on the other floors.
 
+
+
 ### Getting B:
 - Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
+Most common uses for an elevator
+- Elevators are used to 
 
 - Think about how the user interacts with the elevator. What is the common sequence of actions?
 
