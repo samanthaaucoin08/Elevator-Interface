@@ -2,7 +2,7 @@
 ![Elevator Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4764.png)
 
 ![GIF Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.gif)
-![GIF Image1]()
+![GIF Image1](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/ElevatorGif1.gif)
 
 Negatives of current elevator design
 - There is no “close door” button.
