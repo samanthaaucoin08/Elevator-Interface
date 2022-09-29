@@ -2,14 +2,7 @@
 ![Elevator Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4764.png)
 
 ![GIF Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.gif)
-
-
-### Links
-[Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
-
-[GitHub repository](https://github.com/huyen-nguyen/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
-
-[Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
+![GIF Image1]()
 
 Negatives of current elevator design
 - There is no “close door” button.
@@ -34,6 +27,6 @@ Common Sequence of Actions in an Elevator
 - The elevator is able to interact well with the user through visuals and sound.
 
 
-![]
+![Elevator Gif](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/Elevator_Processing.gif)
 
 ![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
