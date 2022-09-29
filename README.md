@@ -1,7 +1,5 @@
 # Samantha's Elevator Interface 
 ![Elevator Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4764.png)
-
-![GIF Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.gif)
 ![GIF Image1](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/ElevatorGif1.gif)
 
 Negatives of current elevator design
@@ -28,5 +26,5 @@ Common Sequence of Actions in an Elevator
 
 
 ![Elevator Gif](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/Elevator_Processing.gif)
-
 ![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
+![Elevator Code](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/p1.Samantha.Aucoin.zip)
