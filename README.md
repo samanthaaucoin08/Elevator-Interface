@@ -3,8 +3,6 @@
 
 ![GIF Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.gif)
 
-![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
-
 
 ### Links
 [Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
@@ -21,18 +19,21 @@ Negatives of current elevator design
 - The elevator has an explanation of what it is on the exterior on the bottom floor but is missing the explanation on the other floors.
 
 
-
-### Getting B:
-- Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
 Most common uses for an elevator
-- Elevators are used to 
+- Elevators are used to transport humans to different destinations/floors
+- Elevators can also be used to carry heavier items up multiple floors making it more efficient for things to get places quicker
 
-- Think about how the user interacts with the elevator. What is the common sequence of actions?
+The interface on the elevator that is presented in the above picture could make things harder for people who are in a rush or are trying to carry a heavy load due to the button placement. 
 
-- How does the elevator support the user figure out how to make it work?
+Common Sequence of Actions in an Elevator
+- User presses button to open door
+- User walks in and presses their desired location
+- User presses the close door button to speed up the process (depends on user)
 
-- How does the elevator provide feedback to the user?
 
-- What are some common mistakes you can make with this current design?
+- The elevator is able to interact well with the user through visuals and sound.
 
-- Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+
+![]
+
+![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
