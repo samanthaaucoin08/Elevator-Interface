@@ -18,7 +18,7 @@ Negatives of current elevator design
 - The elevator has an explanation of what it is on the exterior on the bottom floor but is missing the explanation on the other floors.
 
 ![Negative1]()
-![Negative2]()
+![Negative2](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4762.png)
 
 Most common uses for an elevator
 - Elevators are used to transport humans to different destinations/floors
