@@ -17,7 +17,7 @@ Negatives of current elevator design
 - The font on some of the buttons is faded making it difficult to see which button the user is pressing.
 - The elevator has an explanation of what it is on the exterior on the bottom floor but is missing the explanation on the other floors.
 
-![Negative1]()
+![Negative1](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4758.png)
 ![Negative2](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4762.png)
 
 Most common uses for an elevator
