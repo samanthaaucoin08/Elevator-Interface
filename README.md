@@ -2,6 +2,14 @@
 ![Elevator Image](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/IMG_4764.png)
 ![GIF Image1](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/ElevatorGif1.gif)
 
+Positives of current elevator design
+- The elevator provides instruction sheet for firefighters and passengers use incase of emergency.
+- The elevator provides great interaction with passenger by using light and sound.
+- All the daily used buttons in the elevator provide a good visual representation of what each button does.
+- The elevator provides communication for the disabled.
+
+
+
 Negatives of current elevator design
 - There is no “close door” button.
 - The emergency call button should be red instead of black.
@@ -24,7 +32,6 @@ Common Sequence of Actions in an Elevator
 
 - The elevator is able to interact well with the user through visuals and sound.
 
-
-![Elevator Gif](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/Elevator_Processing.gif)
 ![Elevator Sketch](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/p1.Samantha.Aucoin.png)
+![Elevator Gif](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/Images/Elevator_Processing.gif)
 ![Elevator Code](https://github.com/samanthaaucoin08/p1.Samantha.Aucoin/blob/main/p1.Samantha.Aucoin.zip)
