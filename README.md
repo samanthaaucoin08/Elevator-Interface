@@ -17,6 +17,8 @@ Negatives of current elevator design
 - The font on some of the buttons is faded making it difficult to see which button the user is pressing.
 - The elevator has an explanation of what it is on the exterior on the bottom floor but is missing the explanation on the other floors.
 
+![Negative1]()
+![Negative2]()
 
 Most common uses for an elevator
 - Elevators are used to transport humans to different destinations/floors
